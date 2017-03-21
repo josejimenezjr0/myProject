@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "learning how to use this",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"I'm here\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josejimenezjr0/hello-world.git"
+  },
+  "author": "Jose Jimenez Jr. <josejimenezjr0@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josejimenezjr0/hello-world/issues"
+  },
+  "homepage": "https://github.com/josejimenezjr0/hello-world#readme",
+  "dependencies": {
+    "hapi": "^16.1.0"
+  }
+}
