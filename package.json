@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/josejimenezjr0/hello-world#readme",
   "dependencies": {
-    "hapi": "^16.1.0"
+    "hapi": "^16.1.0",
+    "inert": "^4.2.0"
   }
 }
